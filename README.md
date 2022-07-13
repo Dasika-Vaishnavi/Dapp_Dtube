@@ -1,24 +1,6 @@
-<p align="center">
-  <img align="center" src="https://github.com/AkhileshThite/DTube/blob/main/src/logo.png" width="200" height="200"></img>
-</p>
-
-<h1 align="center">DTube</h1>
-
-<p aign="center">
-  <p align="center">Decentralized video sharing & social media platform on Ethereum blockchain.</p>
-  <p align="center">Website: <a href="https://dtube-eth.on.fleek.co"></a>https://dtube-eth.on.fleek.co</p>
-</p>
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AkhileshThite.dtube" alt="visitors" />
-  <img src="https://img.shields.io/github/v/release/AkhileshThite/DTube?color=1FC71F" alt="GitHub release" />
-</div>
-
-## Tutorial blog
-`Build a Social Media dApp & Deploy it on Polygon`: Article [link](https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon).
-
 ## Inspired by
-[Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ).
+#### [polygon academy](https://academy.polygon.technology/module-8-wizard-challenge/final-asssignment).
+#### [Siraj Raval](hhttps://youtu.be/XYtpkUOyfzI).
 
 ## Technical Details
 **Languages:**
@@ -66,10 +48,3 @@ Start react app.
 ```
 npm start
 ```
-
-## License
-[MIT license](https://github.com/AkhileshThite/DTube/blob/main/LICENSE)
-
-<hr>
-
-Don't forget to leave a 🌟.
