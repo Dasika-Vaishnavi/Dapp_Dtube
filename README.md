@@ -1,4 +1,4 @@
-## Project in a Nutshell
+## Dtube in a Nutshell
 Dtube is a full stack social media dapp. The dapp lets a user post and receive images to an anonymous network of contributors. There will be a feed of all images. This project uses ethereum to point to images and store them on IPFS and uses polygon as an L2 for this. 
 
 ## [Link to project demo](https://www.youtube.com/watch?v=HwyWN5RslGI)
