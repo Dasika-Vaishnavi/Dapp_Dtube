@@ -1,6 +1,5 @@
 ## Inspired by
 #### [polygon academy](https://academy.polygon.technology/module-8-wizard-challenge/final-asssignment).
-#### [Siraj Raval](https://youtu.be/XYtpkUOyfzI).
 
 ## Technical Details
 **Languages:**
