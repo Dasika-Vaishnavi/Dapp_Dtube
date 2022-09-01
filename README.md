@@ -1,6 +1,8 @@
-## Inspired by
-#### [polygon academy](https://academy.polygon.technology/module-8-wizard-challenge/final-asssignment).
+## Project in a Nutshell
+Dtube is a full stack social media dapp. The dapp lets a user post and receive images to an anonymous network of contributors. There will be a feed of all images. This project uses ethereum to point to images and store them on IPFS and uses polygon as an L2 for this. 
 
+## [Link to project demo](
+https://www.youtube.com/watch?v=HwyWN5RslGI)
 ## Technical Details
 **Languages:**
 ```Solidity, JavaScript, HTML5, CSS3```
