@@ -2,7 +2,7 @@
   "name": "DTube",
   "version": "0.1.0",
   "description": "Decentralized video sharing & social media platform.",
-  "author": "Akhilesh Thite",
+  "author": "Vaishnavi Dasika",
   "homepage": ".",
   "dependencies": {
     "@emotion/react": "^11.4.0",
